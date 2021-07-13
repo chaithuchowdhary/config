@@ -34,7 +34,7 @@ For e.g. `YouTube=1`, `PixelLauncher=1`, `>>PixelTips=1` will keep these package
 
 For More information on [this repository](https://github.com/nikgapps/config), refer [nikgapps blog](https://nikgapps.com/misc/2021/04/10/Build-Own-NikGapps-Build.html)
 
-##My Build
+## My Build
 
 You can find my build [here](https://sourceforge.net/projects/nikgapps/files/Config-Releases/NikGapps-R/13-Jul-2021/NikGapps-Chaithu-Gapps-arm64-11-20210713.zip/download)
 
